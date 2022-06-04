@@ -315,7 +315,7 @@ export default function Home({ data }) {
 						$500.
 					</li>
 					
-					<li className="px-4 py-2 w-full rounded-b-lg">	<span className="text-green-800 text-lg border-r-2 mr-1 border-gray-600"> 4 </span>And a fifth one</li>
+					<li className="px-4 py-2 w-full rounded-b-lg">	<span className="text-green-800 text-lg border-r-2 mr-1 border-gray-600"> 4 </span>If Player have 21 points, win x2 bet if Dealer have x2, lose x2 bet</li>
 				</ul>
 			</div>
 		</div>
